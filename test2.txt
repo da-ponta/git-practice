@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 test
 tes
 
 iiiiiiiit
+=======
+>>>>>>> parent of b876ae1... test2.txt
