@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 commit 2
 commit 3
 branch exp1
+=======
+aaaavvvvc1X2
+>>>>>>> 2e4d54d2cef1df5e9ed90bb20a1962fb634a16a1
