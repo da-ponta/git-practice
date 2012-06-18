@@ -1,2 +1,2 @@
 puts "Hello, Rubyyyyyyyyyyyyyyyyyyaaaaaaa!!!!!"
-puts "branchbranch^^"
+print "branchbranch^^"
